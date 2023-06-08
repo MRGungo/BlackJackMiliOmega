@@ -1,0 +1,75 @@
+Cíl a pravidla hry Black Jack
+
+Cílem hráče (případně hráčů, protože jich může hrát několik současně) ve hře Black Jack je porazit krupiéra, a to tak, že bude mít vyšší součet karet než krupiér a současně nepřetáhne součet 21. Někteří začátečníci se totiž mylně domnívají, že cílem při Black Jacku je dosáhnout součtu 21. Nikoliv, je to jen nejvyšší (a tudíž velmi žádoucí) součet ve hře. Hráč zkrátka musí mít víc než krupiér a nesmí přetáhnout.
+
+Pokud hráč součet 21 přetáhne – je tzv. „přes“ (anglicky busting or breaking) – a prohrává vždy, bez ohledu na karty krupiéra. Jestliže součet 21 přetáhne krupiér, prohrává proti všem hráčům, kteří nepřetáhli. Dosáhne-li hráč stejného součtu jako krupiér, jedná se o remízu a sázka se vrací.
+
+Hraje-li více hráčů, může nastat situace, že krupiér s některými hráči prohraje, s jinými vyhraje nebo remizuje. Každý hráč vyhrává, nebo prohrává svou individuální sázku. Výše minimální sázky je obvykle uvedena u stolu.
+
+Bodování karet v Black Jacku se oproti Oko bere mírně liší. Karty 2 až 10 mají právě tu bodovou hodnotu, která je na kartě uvedena, zatímco kluk (J – Jack), dáma (Q – Queen) a král (K – King), tj. „obrázky“, se počítají za 10 bodů. Eso (A – Ace) může být počítáno za 1 bod nebo 11 bodů dle vlastního uvážení. Oproti Oko bere se u hry Black Jack vyskytují také dva terminologické výrazy: měkký a tvrdý součet. Pokud hráč počítá eso za 11 bodů, nazývá součet jako měkký, protože s přibráním další karty hráč nemůže přetáhnout 21; v opačném případě je součet označován jako tvrdý.
+
+Jako Black Jack je označována kombinace esa s desítkou nebo jakoukoliv obrázkovou kartu (J, Q, K), barva nehraje žádnou roli, například:
+	 		 		 	
+Rozdání karet a průběh hry
+
+Poté, co hráči umístí sázky před sebe na vyznačená pole (box), krupiér rozdá každému hráči i sobě, z jeho pohledu ve směru hodinových ručiček, nejprve jednu kartu a hráčům následně ve stejném pořadí ještě druhou kartu. Všechny karty jsou rozdávány lícem nahoru, tj. viditelně pro všechny hráče, krupiéra i přihlížející.
+
+Následně se krupiér, ve stejném pořadí, v jakém byly rozdány karty, hráčů ptá, jak mají v úmyslu se svými kartami a sázkami naložit a oznamuje rovněž výsledný součet karet. Na rozdíl od Oko bere není rozhodnutí hráčů zúženo pouze na to, zdali přibrat další kartu (karty), či stát, ale existují zde nové možnosti, a to hru rozdělit (split) nebo zdvojnásobit sázku (double). Krupiér provádí pokyny hráče, dokud se hráč nerozhodne stát nebo nepřetáhne. Přetáhne-li, jeho sázka je okamžitě sebrána.
+
+Jakmile krupiér takto obslouží všechny hráče, rozdá si druhou, případně další karty. Poté sebere prohrávající sázky, vyplatí vyhrávající sázky a vrátí sázky remízové. Pro úplnost je třeba dodat, že v některých variantách Black Jacku (rozuměj po mírné úpravě pravidel kasinem), zejména pokud se hraje pouze s jedním balíčkem karet, krupiér hráčům rozdá karty lícem dolů (neviditelně), anebo sobě rozdá ihned dvě karty, z nichž jedna je lícem dolů.
+Rozhodování krupiéra
+
+Začněme jednodušším, tedy hrou krupiéra (dealera), který, na rozdíl od hráčů, má přesně daná pravidla, kdy musí táhnout, nebo stát:
+
+    Pokud je součet karet krupiéra do 16 včetně, musí přibrat další kartu;
+    Má-li součet 17 nebo vyšší, musí zůstat stát (= nesmí již přibrat další kartu).
+
+Některá kasina mohou mít toto pravidlo upraveno tak, že krupiér musí táhnout i při součtu 17, pokud jej dosáhne měkkým způsobem. Samozřejmě, přetáhne-li 21, prohrává a musí vyplatit všechny hráče, kteří nepřesáhli, a to v poměru 1:1 (vsadíte-li 100 Kč, dostanete zpět svůj vklad + výhru 100 Kč). Krupiér nemá možnost ani double ani split – více viz hra hráče.
+Rozhodování hráče
+
+Hráči mají ve hře Black Jack daleko více možností než krupiér. Běžně se pro ně používají anglické výrazy, zjednodušená výslovnost je uvedena v hranatých závorkách.
+Hit
+
+[hit] Vzít další kartu/karty od krupiéra (z angličtiny doslova „trefit“).
+Stand
+
+[stend] Zůstat stát (ukončit hru, předat tah). Hráč je spokojen se svým součtem anebo již nechce další kartu.
+Double
+
+[dabl] Zdvojnásobit sázku, dostat ještě jednu kartu a ukončit hru. Hráč dostane jednu poslední kartu od krupiéra a na řadu přijde další hráč v pořadí, případně krupiér. Někdy pravidla kasina umožňují zdvojnásobit sázku, jen pokud má hráč pouze jednu kartu.
+Split
+
+[split] Rozdělit hru. Rozdělit hru lze pouze v případě, že má hráč dvě karty stejné hodnoty. S každou kartou se pak hraje samostatná hra (tzn., že ke každé z nich je přibrána další karta) o samostatnou sázku. Původní sázku je třeba navýšit čili zdvojnásobit. Split je proto specifickým způsobem zdvojnásobení sázky.
+Surrender
+
+[surendr] Vzdát se. Pokud hráč nevěří svým dvěma kartám po rozdání, může se vzdát (vzdát se později ve hře není možné), krupiér mu vrátí polovinu sázky, druhá propadá kasinu. Někdy není se vzdát, pokud je první karta krupiéra desítka nebo eso a dosáhl-li by Black Jack. Toto pravidlo se někdy označuje pozdní vzdání (late surrender). Je-li možné se vzdát předtím, než se ověří, zdali by krupiér dosáhl Black Jack, hovoří se o brzkém vzdání (early surrender).
+Insurance
+
+[inšurens] Pojistit se. Pokud je první karta krupiéra eso, hráči mají možnost se pojistit proti Black Jacku krupiéra (součtu 21), dřív než přibere další kartu. Pojištění se vyplácí v poměru 2:1 a na pojištění je možné vložit maximálně částku ve výši poloviny sázky. Při maximální částce by tak byla pokryta celá sázka.
+Variace základních pravidel
+
+Základní pravidla ve hře Black Jack mohou být v různých kasinech mírně upravena. Úpravy se týkají zejména možnosti zdvojnásobovat sázku a (znovu)rozdělovat hru.
+
+Double pouze při 9/10/11 nebo 10/11. Zdvojnásobení sázky je dovoleno pouze při tvrdých součtech 9, 10, 11 nebo 10, 11.
+
+Pouze jedna karta na split es. Dostane-li hráč dvě esa a rozhodne-li se rozdělit hru, dostane od krupiéra na každé eso pouze jednu kartu a končí. Eso se samozřejmě počítá za 11 bodů.
+
+Re-split (znovurozdělení, vícenásobný split). Jestliže hráč rozdělí hru a dostane-li další kartu téže hodnoty, může hru dále rozdělit (re-split), teoreticky tedy na tři nebo dokonce čtyři samostatné hry. Re-split es často není povolen.
+
+Omezení double po split. Zdvojnásobení sázek (double) může být zakázáno poté, co hra již byla rozdělena (split).
+Výsledek hry
+
+Dosáhne-li hráč vyššího konečného součtu než krupiér, vyhrává a je vyplacen v poměru 1:1.
+
+Podaří-li se hráči získat Black Jack, tj. součet 21 ze dvou karet, a krupiérovi nikoliv, vyhrává a je vyplacen v poměru 3:2 (zkráceně 1,5:1), jinými slovy dostane vyplacen 1,5násobek své sázky. Je jasné, že Black Jack (21 ze dvou karet) může být dosažen pouze esem v kombinaci s kartou, která má hodnotu 10 bodů (tj. desítka, kluk, dáma, král). Pokud i krupiér dosáhne Black Jack, hra končí remízou. Pokud hráč dosáhne Black Jack a první kartou krupiéra je eso, nabídne krupiér hráči možnost okamžité výplaty rovné sázky, tj. v poměru 1:1 (even money).
+
+Hra končí remízou (standoff nebo push) i v ostatních případech, kdy součet karet hráče a krupiéra je shodný. Při remíze se sázky vracejí.
+
+Hráč prohrává vždy, pokud přetáhne 21, bez ohledu na součet karet krupiéra.
+
+Pokud krupiér přesáhne 21, prohrává a vyplácí všechny hráče, kteří nepřetáhli.
+Výhoda kasina v Black Jacku
+
+Obecně je známo, že kasina mají nad hráči určitou výhodu a třeba vás napadá, jakou konkrétní výhodu má kasino nad hráčem v Black Jacku? Odkud tato výhoda plyne, když hráč má při svém rozhodování mnohem více svobody než krupiér? Výhoda kasina plyne z toho, že hráč se vyjadřuje jako první, proto jako první má možnost přetáhnout (bust). A jak víme, je-li hráč přes, prohrává bez ohledu na karty krupiéra.
+
+Na otázku, kolik činí výhoda kasina z Black Jacku v procentech a jak může hráč dokonce bojovat o výhodu, odpovídají následují dvě kapitoly věnované základní a pokročilé strategii.

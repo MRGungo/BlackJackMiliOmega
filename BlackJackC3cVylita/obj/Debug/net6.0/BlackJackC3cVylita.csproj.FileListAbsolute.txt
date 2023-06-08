@@ -1,0 +1,15 @@
+C:\Users\janvy\source\repos\BlackJackC3cVylita\bin\Debug\net6.0\BlackJackC3cVylita.exe
+C:\Users\janvy\source\repos\BlackJackC3cVylita\bin\Debug\net6.0\BlackJackC3cVylita.deps.json
+C:\Users\janvy\source\repos\BlackJackC3cVylita\bin\Debug\net6.0\BlackJackC3cVylita.runtimeconfig.json
+C:\Users\janvy\source\repos\BlackJackC3cVylita\bin\Debug\net6.0\BlackJackC3cVylita.dll
+C:\Users\janvy\source\repos\BlackJackC3cVylita\bin\Debug\net6.0\BlackJackC3cVylita.pdb
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\BlackJackC3cVylita.csproj.AssemblyReference.cache
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\BlackJackC3cVylita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\BlackJackC3cVylita.AssemblyInfoInputs.cache
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\BlackJackC3cVylita.AssemblyInfo.cs
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\BlackJackC3cVylita.csproj.CoreCompileInputs.cache
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\BlackJackC3cVylita.dll
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\refint\BlackJackC3cVylita.dll
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\BlackJackC3cVylita.pdb
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\BlackJackC3cVylita.genruntimeconfig.cache
+C:\Users\janvy\source\repos\BlackJackC3cVylita\obj\Debug\net6.0\ref\BlackJackC3cVylita.dll
